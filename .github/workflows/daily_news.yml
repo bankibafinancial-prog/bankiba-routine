@@ -1,0 +1,54 @@
+name: Bankiba — Routine Actualités CEMAC
+
+on:
+  schedule:
+    # Chaque jour à 06h00 UTC = 07h00 WAT (Cameroun/Gabon)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+    # Déclenchement manuel depuis GitHub Actions
+
+permissions:
+  contents: write  # nécessaire pour git push
+
+jobs:
+  generate-news:
+    name: Générer et publier cemac_finance_news.json
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout dépôt
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Configurer Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Installer les dépendances
+        run: pip install -r scripts/requirements.txt
+
+      - name: Exécuter la routine Bankiba
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        run: python scripts/run_routine.py
+
+      - name: Configurer git
+        run: |
+          git config user.name  "Bankiba Bot"
+          git config user.email "bankibafinancial@gmail.com"
+
+      - name: Commit et push du fichier JSON
+        run: |
+          git add cemac_finance_news.json
+          if git diff --cached --quiet; then
+            echo "Aucune modification détectée — pas de commit."
+          else
+            git commit -m "routine: flux actualités CEMAC du $(date -u +%Y-%m-%d)"
+            git push origin main
+          fi
