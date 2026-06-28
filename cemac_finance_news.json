@@ -1,0 +1,152 @@
+{
+  "version_schema": "1.0",
+  "application": "Bankiba Technology",
+  "flux": "actualites_finance_cemac",
+  "langue": "fr",
+  "zone_couverte": "CEMAC + Afrique centrale et de l'Ouest elargie",
+  "date_edition": "2026-06-28",
+  "genere_le": "2026-06-28T10:30:00+01:00",
+  "nombre_articles": 12,
+  "categories": [
+    "Macroeconomie",
+    "Dette souveraine",
+    "Bourse",
+    "Banque",
+    "Reglementation",
+    "Fintech"
+  ],
+  "articles": [
+    {
+      "id": "cemac-inclusion-financiere-economie-informelle-pme-2026",
+      "titre": "CEMAC : L'économie informelle paralyse le financement bancaire des PME",
+      "categorie": "Macroeconomie",
+      "pays": "CEMAC",
+      "resume": "Lors de la première Journée de la finance et du développement organisée à Yaoundé le 18 juin 2026, le gouverneur de la BEAC a dressé un état des lieux préoccupant : 80 % des entreprises de la zone CEMAC opèrent dans l'informel, ce qui limite fortement leur accès au crédit bancaire. Cette situation expose la zone à de sérieuses vulnérabilités et entrave l'accompagnement des PME qui constituent le tissu économique régional.",
+      "source": "L'Economie",
+      "url": "https://leconomie.info/cemac-leconomie-informelle-paralyse-le-financement-bancaire-des-pme/",
+      "date_publication": "2026-06-18",
+      "image_url": "https://plus.unsplash.com/premium_photo-1691223733678-095fee90a0a7?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWNsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "gabon-leve-307-millions-usd-marche-financier-cemac-juin-2026",
+      "titre": "CEMAC : Le Gabon lève 307 millions USD sur le marché financier régional",
+      "categorie": "Dette souveraine",
+      "pays": "Gabon",
+      "resume": "Le Gabon a réussi à lever 173,5 milliards FCFA (soit environ 307,1 millions USD) sur le marché financier de la CEMAC, selon un communiqué publié le 2 juin 2026. L'opération a suscité un fort engouement, dépassant plus du double de l'objectif initial fixé à 85 milliards FCFA. Les investisseurs camerounais ont représenté à eux seuls 70 % des souscriptions, injectant près de 122 milliards FCFA.",
+      "source": "Sika Finance",
+      "url": "https://www.sikafinance.com/marches/cemac-le-gabon-leve-307-millions-usd-sur-le-marche-financier_62045",
+      "date_publication": "2026-06-02",
+      "image_url": "https://plus.unsplash.com/premium_photo-1691223733678-095fee90a0a7?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWNsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "bvmac-700-pourcent-transactions-t1-2026",
+      "titre": "BVMAC : +700 % sur les transactions au premier trimestre 2026",
+      "categorie": "Bourse",
+      "pays": "CEMAC",
+      "resume": "La Bourse des Valeurs Mobilières de l'Afrique Centrale (BVMAC) a enregistré une performance spectaculaire au premier trimestre 2026 : le nombre de transactions est passé de 74 à 638 en glissement annuel, le volume de titres échangés a bondi de 9 651 à 204 056 unités, et la valeur globale des échanges a été multipliée par plus de sept pour atteindre près de 1,98 milliard FCFA. L'indice All Share a progressé de 25,75 % à 1 147,20 points au 31 mars 2026.",
+      "source": "Ecomatin",
+      "url": "https://ecomatin.net/bvmac-700-sur-les-transactions-au-premier-trimestre-2026",
+      "date_publication": "2026-04-01",
+      "image_url": "https://plus.unsplash.com/premium_photo-1691223733678-095fee90a0a7?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWNsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "bgfi-holding-triple-capitalisation-bvmac-1700-milliards-fcfa",
+      "titre": "BVMAC : L'entrée de BGFI Holding triple la capitalisation du marché régional à plus de 1 700 milliards FCFA",
+      "categorie": "Bourse",
+      "pays": "CEMAC",
+      "resume": "L'introduction en bourse de BGFI Holding Corporation sur le compartiment A-PREMIUM de la BVMAC le 7 mai 2026 a provoqué un bond historique de la capitalisation boursière régionale, qui est passée de 479 milliards à 1 658 milliards FCFA dès le premier jour, soit une hausse de plus de 246 %. Le titre BGFI Holding a atteint 9,75 % de hausse le 15 juin 2026, portant l'indice All Share à 1 163,23 points.",
+      "source": "Sika Finance",
+      "url": "https://www.sikafinance.com/marches/bvmac-comment-leffet-bgfi-holding-a-triple-la-capitalisation-du-marche-regional-a-plus-de-1-700-milliards-fcfa_62472",
+      "date_publication": "2026-05-07",
+      "image_url": "https://plus.unsplash.com/premium_photo-1691223733678-095fee90a0a7?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWNsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "cemac-credit-bancaire-recule-20-pourcent-debut-2026",
+      "titre": "Crédit bancaire : l'offre recule de 20 % dans la CEMAC au début 2026",
+      "categorie": "Banque",
+      "pays": "CEMAC",
+      "resume": "L'offre globale de crédit des établissements bancaires de la sous-région CEMAC a atteint 2 510,5 milliards FCFA entre janvier et mars 2026, contre 3 146,9 milliards FCFA sur la même période un an plus tôt, soit une contraction de 20,22 % en glissement annuel. Cette baisse traduit un durcissement des conditions de financement, dans un contexte de montée des créances douteuses et de nouvelles exigences prudentielles de la COBAC.",
+      "source": "Africtelegraph",
+      "url": "https://africtelegraph.com/blog/credit-bancaire-loffre-recule-de-20-dans-la-cemac-debut-2026/",
+      "date_publication": "2026-05-01",
+      "image_url": "https://plus.unsplash.com/premium_photo-1691223733678-095fee90a0a7?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWNsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "cobac-cosumaf-anif-triptyque-anti-blanchiment-cemac-2026",
+      "titre": "COBAC, COSUMAF et ANIF signent un accord inédit contre l'opacité financière en zone CEMAC",
+      "categorie": "Reglementation",
+      "pays": "CEMAC",
+      "resume": "Le 23 mars 2026 à Libreville, la COBAC, la COSUMAF et les Agences Nationales d'Investigation Financière (ANIF) des pays membres ont conclu un accord de partenariat historique visant à briser les silos réglementaires exploités par les réseaux de blanchiment. Ce triptyque institutionnel entend renforcer l'échange d'informations et la coopération judiciaire pour améliorer la transparence financière dans l'ensemble de la zone.",
+      "source": "Sika Finance",
+      "url": "https://www.sikafinance.com/marches/cobac-cosumaf-anif-le-nouveau-triptyque-contre-l-opacite-financiere-en-zone-cemac_60656",
+      "date_publication": "2026-03-23",
+      "image_url": "https://plus.unsplash.com/premium_photo-1691223733678-095fee90a0a7?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWNsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "cemac-fmi-previsions-croissance-3-pourcent-2026",
+      "titre": "CEMAC : Le FMI abaisse ses prévisions de croissance économique à 3 % pour 2026",
+      "categorie": "Macroeconomie",
+      "pays": "CEMAC",
+      "resume": "Le Fonds Monétaire International a révisé à la baisse ses projections de croissance pour la zone CEMAC en 2026, les ramenant à 3 %, après 3,5 % enregistrés en 2025. Cette révision reflète le ralentissement de l'activité économique régionale, sous l'effet d'une baisse de la production pétrolière dans plusieurs pays membres et d'une demande intérieure encore fragile.",
+      "source": "Agence Ecofin",
+      "url": "https://www.agenceecofin.com/actualites/2204-137785-cemac-le-fmi-abaisse-ses-previsions-de-croissance-economique-a-3-pour-2026",
+      "date_publication": "2026-04-22",
+      "image_url": "https://plus.unsplash.com/premium_photo-1691223733678-095fee90a0a7?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWNsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "cameroun-dette-publique-15416-milliards-fcfa-mars-2026",
+      "titre": "Cameroun : la dette publique grimpe à 15 416 milliards FCFA, le ratio PIB recule à 44,3 %",
+      "categorie": "Dette souveraine",
+      "pays": "Cameroun",
+      "resume": "L'encours de la dette publique du Cameroun a progressé de 6 % en un an pour atteindre 15 416 milliards FCFA à fin mars 2026. Malgré cette hausse en valeur absolue, le ratio dette/PIB a reculé à 44,3 %, grâce à une croissance nominale du PIB plus rapide que l'accumulation de dettes. Le Cameroun reste le premier emprunteur de la zone CEMAC sur le marché régional des titres publics.",
+      "source": "Ecomatin",
+      "url": "https://ecomatin.net/cameroun-la-dette-publique-grimpe-a-15-416-milliards-fcfa-mais-le-ratio-recule-a-443-du-pib",
+      "date_publication": "2026-06-01",
+      "image_url": "https://plus.unsplash.com/premium_photo-1691223733678-095fee90a0a7?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWNsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "cameroun-60-pourcent-dette-flottante-apuree-mai-2026",
+      "titre": "Cameroun : plus de 60 % de la dette flottante cumulée sur 19 ans apurée à fin mai 2026",
+      "categorie": "Dette souveraine",
+      "pays": "Cameroun",
+      "resume": "Le gouvernement camerounais a apuré plus de 60 % de l'encours de sa dette flottante accumulée sur 19 ans, à fin mai 2026. Cette performance témoigne d'un effort budgétaire significatif de l'État visant à rétablir la confiance des créanciers privés et à améliorer l'environnement des affaires en réduisant les arriérés intérieurs. La mesure devrait contribuer à relancer le crédit aux entreprises locales.",
+      "source": "Financial Afrik",
+      "url": "https://www.financialafrik.com/2026/06/04/cameroun-le-gouvernement-sacquitte-de-plus-de-60-de-dette-flottante-cumulee-sur-19-ans-a-fin-mai-2026/",
+      "date_publication": "2026-06-04",
+      "image_url": "https://plus.unsplash.com/premium_photo-1691223733678-095fee90a0a7?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWNsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "cemac-gabon-cameroun-congo-80-pourcent-dette-marche-regional",
+      "titre": "CEMAC : Gabon, Cameroun et Congo concentrent 80 % de la dette sur le marché régional",
+      "categorie": "Dette souveraine",
+      "pays": "CEMAC",
+      "resume": "Selon Financial Afrik, le Gabon, le Cameroun et le Congo cumulent à eux seuls près de 80 % de l'encours total de la dette publique sur le marché régional des titres de la CEMAC. Cette concentration soulève des questions sur l'équilibre et la résilience du marché financier régional, les États membres les moins développés disposant d'un accès limité aux financements du marché.",
+      "source": "Financial Afrik",
+      "url": "https://www.financialafrik.com/2026/04/13/cemac-gabon-cameroun-et-congo-concentrent-80-de-la-dette-sur-le-marche-regional/",
+      "date_publication": "2026-04-13",
+      "image_url": "https://plus.unsplash.com/premium_photo-1691223733678-095fee90a0a7?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWNsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "nigeria-excedent-commercial-341-pourcent-t1-2026",
+      "titre": "Nigeria : l'excédent commercial bondit de près de 341 % au 1er trimestre 2026",
+      "categorie": "Macroeconomie",
+      "pays": "Nigeria",
+      "resume": "Le Nigeria a enregistré un excédent commercial de 7 549,94 milliards de nairas (plus de 5,5 milliards USD) au premier trimestre 2026, en hausse de 340,88 % par rapport au trimestre précédent. Cette performance est attribuée à une baisse des importations de produits pétroliers combinée à une hausse des exportations de pétrole brut. La croissance économique du Nigeria s'est établie à +3,9 % au T1-2026, portée par les services financiers (+8,5 %) et les télécommunications (+11 %).",
+      "source": "Agence Ecofin",
+      "url": "https://www.agenceecofin.com/actualites/1006-139164-nigeria-l-excedent-commercial-bondit-de-pres-de-341-au-1er-trimestre-2026",
+      "date_publication": "2026-06-10",
+      "image_url": "https://plus.unsplash.com/premium_photo-1691223733678-095fee90a0a7?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWNsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "beac-fmi-regulation-fintech-cryptoactifs-cemac-2026",
+      "titre": "BEAC et FMI posent les bases de la régulation des Fintech et cryptoactifs en zone CEMAC",
+      "categorie": "Reglementation",
+      "pays": "CEMAC",
+      "resume": "Du 23 au 27 février 2026, la BEAC et le FMI ont organisé un séminaire stratégique à Yaoundé réunissant la COBAC, la COSUMAF et le GABAC, pour définir un cadre harmonisé de régulation des fintechs et des crypto-actifs. Sur instruction de la Conférence des chefs d'État de la CEMAC, les institutions communautaires travaillent à l'adoption d'un cadre réglementaire commun couvrant les monnaies numériques de banque centrale (MNBC) et les actifs numériques privés.",
+      "source": "Portail FinDev / FINDEVGATEWAY",
+      "url": "https://www.findevgateway.org/fr/actualites/la-beac-et-le-fmi-posent-les-bases-de-la-regulation-en-cemac-pour-les-fintech",
+      "date_publication": "2026-02-27",
+      "image_url": "https://plus.unsplash.com/premium_photo-1691223733678-095fee90a0a7?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWNsZXxlbnwwfHwwfHx8MA%3D%3D"
+    }
+  ]
+}
